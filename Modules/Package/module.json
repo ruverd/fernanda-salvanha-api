@@ -1,0 +1,16 @@
+{
+    "name": "Package",
+    "alias": "package",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Package\\Providers\\PackageServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
